@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1aabb283-7fda-4fbc-acfc-657328b1294a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="1aabb283-7fda-4fbc-acfc-657328b1294a" name="Changes" comment="maven course">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex2_maven/jee-parent/model/src/main/java/pt/training/maven/jee/model/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex2_maven/jee-parent/model/src/main/java/pt/training/maven/jee/model/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex2_maven/jee-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ex2_maven/jee-parent/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +47,14 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/redsa/Documents/pwr/technologia_programowania/labs_26-10-14/ex2_maven",
+    "last_opened_file_path": "/home/redsa/Documents/pwr/technologia_programowania/labs_26-10-14/ex7_todo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/redsa/Documents/pwr/technologia_programowania/labs_26-10-14/src/Main.java"
+    "onboarding.tips.debug.path": "/home/redsa/Documents/pwr/technologia_programowania/labs_26-10-14/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -85,5 +88,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="maven course" />
+    <option name="LAST_COMMIT_MESSAGE" value="maven course" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

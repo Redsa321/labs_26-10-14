@@ -38,4 +38,28 @@
       </snapshots>
     </pluginRepository>
   </pluginRepositories>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-checkstyle-plugin</artifactId>
+        <version>3.3.1</version>
+        <configuration>
+          <!-- Standard rule: google_checks.xml or sun_checks.xml -->
+          <configLocation>sun_checks.xml</configLocation>
+          <consoleOutput>true</consoleOutput>
+          <failsOnError>true</failsOnError>
+        </configuration>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-pmd-plugin</artifactId>
+        <version>3.21.2</version>
+        <configuration>
+          <linkXRef>false</linkXRef>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
 </project>
