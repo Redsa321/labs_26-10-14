@@ -1,0 +1,3 @@
+[submodule "ex7_todo"]
+    path = ex7_todo
+    url = https://github.com/Redsa321/java_terminal_task_manager.git
